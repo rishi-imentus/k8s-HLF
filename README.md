@@ -4,7 +4,7 @@
 [//]: # (SPDX-License-Identifier: Apache-2.0)
 [//]: # (##############################################################################################)
 
-## Abouttt
+## Abouttt is
 This folder contains the files that are needed for the deployment of a Hyperledger Fabric network and other Ledgers in Hyperledger Bevel . 
 
 ## Folder structure
